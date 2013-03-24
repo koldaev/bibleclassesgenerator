@@ -1,0 +1,158 @@
+package tr.bible;
+
+public class trbible48 {
+
+public trbible48() {
+
+putmapbible48();
+
+}
+
+private void putmapbible48() {
+
+trsuperobject.biblemap.put("b48_1_1-2", new trsuperobject(48,1,1-2,"İnsanlarca ya da insan aracılığıyla değil, İsa Mesih ve Onu ölümden dirilten Baba Tanrı aracılığıyla elçi atanan ben Pavlustan ve benimle birlikte olan bütün kardeşlerden Galatyadaki kiliselere selam!"));
+trsuperobject.biblemap.put("b48_1_3", new trsuperobject(48,1,3,"Babamız Tanrıdan ve Rab İsa Mesihten sizlere lütuf ve esenlik olsun."));
+trsuperobject.biblemap.put("b48_1_4", new trsuperobject(48,1,4,"Mesih, Babamız Tanrının isteğine uyarak bizi şimdiki kötü çağdan kurtarmak için günahlarımıza karşılık kendini feda etti."));
+trsuperobject.biblemap.put("b48_1_5", new trsuperobject(48,1,5,"Tanrıya sonsuzlara dek yücelik olsun! Amin."));
+trsuperobject.biblemap.put("b48_1_6", new trsuperobject(48,1,6,"Sizi Mesihin lütfuyla çağıranı bırakıp değişik bir müjdeye böylesine çarçabuk dönmenize şaşıyorum."));
+trsuperobject.biblemap.put("b48_1_7", new trsuperobject(48,1,7,"Gerçekte başka bir müjde yoktur. Ancak aklınızı karıştırıp Mesihin Müjdesini çarpıtmak isteyenler vardır."));
+trsuperobject.biblemap.put("b48_1_8", new trsuperobject(48,1,8,"İster biz, ister gökten bir melek size bildirdiğimize ters düşen bir müjde bildirirse, lanet olsun ona!"));
+trsuperobject.biblemap.put("b48_1_9", new trsuperobject(48,1,9,"Daha önce söylediğimizi şimdi yine söylüyorum: Bir kimse size kabul ettiğinize ters düşen bir müjde bildirirse, ona lanet olsun!"));
+trsuperobject.biblemap.put("b48_1_10", new trsuperobject(48,1,10,"Şimdi ben insanların onayını mı, Tanrının onayını mı arıyorum? Yoksa insanları mı hoşnut etmeye çalışıyorum? Eğer hâlâ insanları hoşnut etmek isteseydim, Mesihin kulu olmazdım."));
+trsuperobject.biblemap.put("b48_1_11", new trsuperobject(48,1,11,"Kardeşlerim, yaydığım Müjdenin insandan kaynaklanmadığını bilmenizi istiyorum."));
+trsuperobject.biblemap.put("b48_1_12", new trsuperobject(48,1,12,"Çünkü ben onu insandan almadım, kimseden de öğrenmedim. Bunu bana İsa Mesih vahiy yoluyla açıkladı."));
+trsuperobject.biblemap.put("b48_1_13", new trsuperobject(48,1,13,"Yahudi dinine bağlı olduğum zaman nasıl bir yaşam sürdüğümü duydunuz. Tanrının kilisesine alabildiğine zulmediyor, onu kırıp geçiriyordum."));
+trsuperobject.biblemap.put("b48_1_14", new trsuperobject(48,1,14,"Yahudi dininde yaşıtım olan soydaşlarımın birçoğundan daha ilerideydim, atalarımın geleneklerini savunmakta çok daha gayretliydim."));
+trsuperobject.biblemap.put("b48_1_15-16", new trsuperobject(48,1,15-16,"Ama beni daha annemin rahmindeyken seçip lütfuyla çağıran Tanrı, uluslara müjdelemem için Oğlunu bana göstermeye razı olunca hemen insanlara danışmadım;"));
+trsuperobject.biblemap.put("b48_1_17", new trsuperobject(48,1,17,"Yeruşalime, benden önce elçi olanların yanına da gitmedim; Arabistana gittim, sonra yine Şama döndüm."));
+trsuperobject.biblemap.put("b48_1_18", new trsuperobject(48,1,18,"Bundan üç yıl sonra Kefasla tanışmak üzere Yeruşalime gittim, on beş gün onun yanında kaldım."));
+trsuperobject.biblemap.put("b48_1_19", new trsuperobject(48,1,19,"Öbür elçilerden hiçbirini görmedim, yalnız Rab İsanın kardeşi Yakupu gördüm."));
+trsuperobject.biblemap.put("b48_1_20", new trsuperobject(48,1,20,"Bakın, size yazdıklarımın yalan olmadığını Tanrının önünde belirtiyorum."));
+trsuperobject.biblemap.put("b48_1_21", new trsuperobject(48,1,21,"Sonra Suriye ve Kilikya bölgelerine gittim."));
+trsuperobject.biblemap.put("b48_1_22", new trsuperobject(48,1,22,"Yahudiyenin Mesihe ait kiliseleri beni şahsen tanımıyorlardı."));
+trsuperobject.biblemap.put("b48_1_23", new trsuperobject(48,1,23,"Yalnız, ‹‹Bir zamanlar bize zulmeden adam, önceleri yıkmaya çalıştığı imanı şimdi yayıyor›› dendiğini duymuşlardı."));
+trsuperobject.biblemap.put("b48_1_24", new trsuperobject(48,1,24,"Böylece benden ötürü Tanrı'yı yüceltiyorlardı."));
+trsuperobject.biblemap.put("b48_2_1", new trsuperobject(48,2,1,"On dört yıl aradan sonra Titusu da yanıma alıp Barnabayla birlikte yine Yeruşalime gittim."));
+trsuperobject.biblemap.put("b48_2_2", new trsuperobject(48,2,2,"Vahiy uyarınca gittim. Boş yere koşmayayım ya da koşmuş olmayayım diye, öteki uluslar arasında yaydığım Müjdeyi özel olarak ileri gelenlere sundum."));
+trsuperobject.biblemap.put("b48_2_3", new trsuperobject(48,2,3,"Benimle birlikte olan Titus bile Grek olmasına karşın sünnet edilmeye zorlanmadı."));
+trsuperobject.biblemap.put("b48_2_4", new trsuperobject(48,2,4,"Ne var ki, İsa Mesihte sahip olduğumuz özgürlüğü el altından öğrenmek ve böylece bizi köleleştirmek için gizlice aramıza sızan sahte kardeşler vardı."));
+trsuperobject.biblemap.put("b48_2_5", new trsuperobject(48,2,5,"Müjde gerçeği sürekli sizinle kalsın diye bir an bile onlara boyun eğip teslim olmadık."));
+trsuperobject.biblemap.put("b48_2_6", new trsuperobject(48,2,6,"Ama ileri gelenler -ne oldukları bence önemli değil, Tanrı insanlar arasında ayrım yapmaz- evet, bu ileri gelenler söylediklerime bir şey katmadılar."));
+trsuperobject.biblemap.put("b48_2_7", new trsuperobject(48,2,7,"Tam tersine, Müjdeyi sünnetlilere bildirme işi nasıl Petrusa verildiyse, sünnetsizlere bildirme işinin de bana verildiğini gördüler."));
+trsuperobject.biblemap.put("b48_2_8", new trsuperobject(48,2,8,"Çünkü sünnetlilere elçilik etmesi için Petrusta etkin olan Tanrı, öteki uluslara elçilik etmem için bende de etkin oldu."));
+trsuperobject.biblemap.put("b48_2_9", new trsuperobject(48,2,9,"Topluluğun direkleri sayılan Yakup, Kefas ve Yuhanna bana bağışlanan lütfu sezince paydaşlığımızın işareti olarak bana ve Barnabaya sağ ellerini uzattılar. Öteki uluslara bizlerin, Yahudilere kendilerinin gitmesini uygun gördüler."));
+trsuperobject.biblemap.put("b48_2_10", new trsuperobject(48,2,10,"Ancak yoksulları anımsamamızı istediler. Zaten ben de bunu yapmaya gayret ediyordum."));
+trsuperobject.biblemap.put("b48_2_11", new trsuperobject(48,2,11,"Ne var ki, Kefas Antakyaya geldiği zaman, suçlu olduğu için ona açıkça karşı geldim."));
+trsuperobject.biblemap.put("b48_2_12", new trsuperobject(48,2,12,"Çünkü Yakupun yanından bazı adamlar gelmeden önce Kefas öteki uluslardan olanlarla birlikte yemek yerdi. Ama o adamlar gelince sünnet yanlılarından korkarak sünnetsizlerden uzaklaştı, onlarla yemek yemez oldu."));
+trsuperobject.biblemap.put("b48_2_13", new trsuperobject(48,2,13,"Öbür Yahudiler de onun gibi ikiyüzlülük ettiler. Sonunda Barnaba bile onların ikiyüzlülüğüne kapıldı."));
+trsuperobject.biblemap.put("b48_2_14", new trsuperobject(48,2,14,"Müjde gerçeğine uygun davranmadıklarını görünce hepsinin önünde Kefasa şöyle dedim: ‹‹Yahudi olduğun halde Yahudi gibi değil, öteki uluslardan biri gibi yaşıyorsun, nasıl olur da ulusları Yahudi gibi yaşamaya zorlarsın?"));
+trsuperobject.biblemap.put("b48_2_15", new trsuperobject(48,2,15,"Doğuştan Yahudi olan bizler öteki uluslardan olan ‹günahlılar› değiliz."));
+trsuperobject.biblemap.put("b48_2_16", new trsuperobject(48,2,16,"Yine de insanın Kutsal Yasanın gereklerini yaparak değil, İsa Mesihe iman ederek aklandığını biliyoruz. Bunun için biz de Yasanın gereklerini yaparak değil, Mesihe iman ederek aklanalım diye Mesih İsaya iman ettik. Çünkü hiç kimse Yasanın gereklerini yaparak aklanmaz."));
+trsuperobject.biblemap.put("b48_2_17", new trsuperobject(48,2,17,"Mesihte aklanmak isterken kendimiz günahlı çıkarsak, Mesih günahın yardakçısı mı olur? Kesinlikle hayır!"));
+trsuperobject.biblemap.put("b48_2_18", new trsuperobject(48,2,18,"Yıktığımı yeniden kurarsam, yasayı çiğnediğimi kanıtlamış olurum."));
+trsuperobject.biblemap.put("b48_2_19", new trsuperobject(48,2,19,"Çünkü ben Tanrı için yaşamak üzere Yasa aracılığıyla Yasa karşısında öldüm."));
+trsuperobject.biblemap.put("b48_2_20", new trsuperobject(48,2,20,"Mesihle birlikte çarmıha gerildim. Artık ben yaşamıyorum, Mesih bende yaşıyor. Şimdi bedende sürdürdüğüm yaşamı, beni seven ve benim için kendini feda eden Tanrı Oğluna imanla sürdürüyorum."));
+trsuperobject.biblemap.put("b48_2_21", new trsuperobject(48,2,21,"Tanrı'nın lütfunu geçersiz saymış değilim. Çünkü aklanma Yasa aracılığıyla sağlanabilseydi, o zaman Mesih boş yere ölmüş olurdu.››"));
+trsuperobject.biblemap.put("b48_3_1", new trsuperobject(48,3,1,"Ey akılsız Galatyalılar! Sizi kim büyüledi? İsa Mesih çarmıha gerilmiş olarak gözlerinizin önünde tasvir edilmedi mi?"));
+trsuperobject.biblemap.put("b48_3_2", new trsuperobject(48,3,2,"Sizden yalnız şunu öğrenmek istiyorum: Kutsal Ruhu, Yasanın gereklerini yaparak mı, yoksa duyduklarınıza iman ederek mi aldınız?"));
+trsuperobject.biblemap.put("b48_3_3", new trsuperobject(48,3,3,"Bu kadar akılsız mısınız? Ruhla başladıktan sonra şimdi insan çabasıyla mı bitirmeye çalışıyorsunuz?"));
+trsuperobject.biblemap.put("b48_3_4", new trsuperobject(48,3,4,"Boş yere mi bu kadar acı çektiniz? Gerçekten boşuna mıydı?"));
+trsuperobject.biblemap.put("b48_3_5", new trsuperobject(48,3,5,"Size Kutsal Ruhu veren ve aranızda mucizeler yaratan Tanrı, bunu Yasanın gereklerini yaptığınız için mi, yoksa duyduklarınıza iman ettiğiniz için mi yapıyor?"));
+trsuperobject.biblemap.put("b48_3_6", new trsuperobject(48,3,6,"Örneğin, ‹‹İbrahim Tanrıya iman etti, böylece aklanmış sayıldı.››"));
+trsuperobject.biblemap.put("b48_3_7", new trsuperobject(48,3,7,"Öyleyse şunu bilin ki, İbrahimin gerçek oğulları iman edenlerdir."));
+trsuperobject.biblemap.put("b48_3_8", new trsuperobject(48,3,8,"Kutsal Yazı, Tanrının öteki ulusları imanlarına göre aklayacağını önceden görerek İbrahime, ‹‹Bütün uluslar senin aracılığınla kutsanacak›› müjdesini önceden verdi."));
+trsuperobject.biblemap.put("b48_3_9", new trsuperobject(48,3,9,"Böylece iman edenler, iman etmiş olan İbrahimle birlikte kutsanırlar."));
+trsuperobject.biblemap.put("b48_3_10", new trsuperobject(48,3,10,"Yasanın gereklerini yapmış olmaya güvenenlerin hepsi lanet altındadır. Çünkü şöyle yazılmıştır: ‹‹Yasa Kitabında yazılı olan her şeyi sürekli yerine getirmeyen herkes lanetlidir.››"));
+trsuperobject.biblemap.put("b48_3_11", new trsuperobject(48,3,11,"Tanrı katında hiç kimsenin Yasayla aklanmadığı açıktır. Çünkü ‹‹İmanla aklanan yaşayacaktır.››"));
+trsuperobject.biblemap.put("b48_3_12", new trsuperobject(48,3,12,"Yasa imana dayalı değildir. Tersine, ‹‹Yasanın gereklerini yapan, onlar sayesinde yaşayacaktır.››"));
+trsuperobject.biblemap.put("b48_3_13-14", new trsuperobject(48,3,13-14,"İbrahime sağlanan kutsama Mesih İsa aracılığıyla uluslara sağlansın ve bizler vaat edilen Ruhu imanla alalım diye, Mesih bizim için lanetlenerek bizi Yasanın lanetinden kurtardı. Çünkü, ‹‹Ağaç üzerine asılan herkes lanetlidir›› diye yazılmıştır."));
+trsuperobject.biblemap.put("b48_3_15", new trsuperobject(48,3,15,"Kardeşler, insan yaşamından bir örnek vereyim. İnsanlar arasında yapılmış bile olsa, onaylanmış bir antlaşmayı kimse geçersiz saymaz, ona bir şey eklemez."));
+trsuperobject.biblemap.put("b48_3_16", new trsuperobject(48,3,16,"Vaatler İbrahime ve soyundan olana verildi. Tanrı birçok kişiden söz ediyormuş gibi, ‹‹Ve soyundan olanlara›› demiyor; ‹‹Soyundan olana›› demekle tek bir kişiden, yani Mesihten söz ediyor."));
+trsuperobject.biblemap.put("b48_3_17", new trsuperobject(48,3,17,"Şunu demek istiyorum: Dört yüz otuz yıl sonra gelen Yasa, Tanrının önceden onayladığı antlaşmayı geçersiz kılmaz, vaadi ortadan kaldırmaz."));
+trsuperobject.biblemap.put("b48_3_18", new trsuperobject(48,3,18,"Çünkü miras Yasaya bağlıysa, artık vaade bağlı değildir. Ama Tanrı mirası İbrahime vaatle bağışlamıştır."));
+trsuperobject.biblemap.put("b48_3_19", new trsuperobject(48,3,19,"Öyleyse Yasanın amacı neydi? Yasa suçları ortaya çıkarmak için antlaşmaya eklendi. Vaadi alan ve İbrahimin soyundan olan Kişi gelene dek yürürlükte kalacaktı. Melekler yoluyla, bir aracı eliyle düzenlendi."));
+trsuperobject.biblemap.put("b48_3_20", new trsuperobject(48,3,20,"Aracı tek bir tarafa ait değildir; Tanrı ise birdir."));
+trsuperobject.biblemap.put("b48_3_21", new trsuperobject(48,3,21,"Öyleyse Kutsal Yasa Tanrının vaatlerine aykırı mıdır? Kesinlikle hayır! Çünkü yaşam sağlayabilen bir yasa verilseydi, elbette insanlar yasayla aklanırdı."));
+trsuperobject.biblemap.put("b48_3_22", new trsuperobject(48,3,22,"Oysa İsa Mesihe olan imana dayanan vaat iman edenlere verilsin diye, Kutsal Yazı bütün dünyayı günahın tutsağı ilan ediyor."));
+trsuperobject.biblemap.put("b48_3_23", new trsuperobject(48,3,23,"Bu iman gelmeden önce Yasa altında hapsedilmiştik, gelecek iman açıklanıncaya dek Yasanın tutuklusuyduk."));
+trsuperobject.biblemap.put("b48_3_24", new trsuperobject(48,3,24,"Yani imanla aklanalım diye Mesihin gelişine dek Yasa eğitmenimiz oldu."));
+trsuperobject.biblemap.put("b48_3_25", new trsuperobject(48,3,25,"Ama iman gelmiş olduğundan, artık Yasanın denetiminde değiliz."));
+trsuperobject.biblemap.put("b48_3_26", new trsuperobject(48,3,26,"Çünkü Mesih İsaya iman ettiğiniz için hepiniz Tanrının oğullarısınız."));
+trsuperobject.biblemap.put("b48_3_27", new trsuperobject(48,3,27,"Vaftizde Mesihle birleşenlerinizin hepsi Mesihi giyindi."));
+trsuperobject.biblemap.put("b48_3_28", new trsuperobject(48,3,28,"Artık ne Yahudi ne Grek, ne köle ne özgür, ne erkek ne dişi ayrımı var. Hepiniz Mesih İsada birsiniz."));
+trsuperobject.biblemap.put("b48_3_29", new trsuperobject(48,3,29,"Eğer Mesih'e aitseniz, İbrahim'in soyundansınız, vaade göre de mirasçısınız."));
+trsuperobject.biblemap.put("b48_4_1", new trsuperobject(48,4,1,"Şunu demek istiyorum: Mirasçı her şeyin sahibiyse de, çocuk olduğu sürece köleden farksızdır."));
+trsuperobject.biblemap.put("b48_4_2", new trsuperobject(48,4,2,"Babasının belirlediği zamana dek vasilerin, vekillerin gözetimi altındadır."));
+trsuperobject.biblemap.put("b48_4_3", new trsuperobject(48,4,3,"Bunun gibi, biz de ruhsal yönden çocukken, dünyanın temel ilkelerine bağlı yaşayan kölelerdik."));
+trsuperobject.biblemap.put("b48_4_4-5", new trsuperobject(48,4,4-5,"Ama zaman dolunca Tanrı, Yasa altında olanları özgürlüğe kavuşturmak için kadından doğan, Yasa altında doğan öz Oğlunu gönderdi. Öyle ki, bizler oğulluk hakkını alalım."));
+trsuperobject.biblemap.put("b48_4_6", new trsuperobject(48,4,6,"Oğullar olduğunuz için Tanrı öz Oğlunun ‹‹Abba! Baba!›› diye seslenen Ruhunu yüreklerinize gönderdi."));
+trsuperobject.biblemap.put("b48_4_7", new trsuperobject(48,4,7,"Bu nedenle artık köle değil, oğullarsınız. Oğullar olduğunuz için de Tanrı sizi aynı zamanda mirasçı yaptı."));
+trsuperobject.biblemap.put("b48_4_8", new trsuperobject(48,4,8,"Ne var ki, eskiden Tanrıyı tanımadığınız zamanlarda, gerçek olmayan tanrılara kölelik ettiniz."));
+trsuperobject.biblemap.put("b48_4_9", new trsuperobject(48,4,9,"Şimdiyse Tanrıyı tanıdınız, daha doğrusu Tanrı tarafından tanındınız. Öyleyse nasıl oluyor da bu değersiz, etkisiz ilkelere dönüyorsunuz? Yeniden onların kölesi mi olmak istiyorsunuz?"));
+trsuperobject.biblemap.put("b48_4_10", new trsuperobject(48,4,10,"Özel günler, aylar, mevsimler, yıllar kutluyorsunuz!"));
+trsuperobject.biblemap.put("b48_4_11", new trsuperobject(48,4,11,"Sizin için korkuyorum. Yoksa uğrunuza boş yere mi emek verdim?"));
+trsuperobject.biblemap.put("b48_4_12", new trsuperobject(48,4,12,"Kardeşler, size yalvarıyorum, benim gibi olun. Çünkü ben de sizin gibi oldum. Bana hiç haksızlık etmediniz."));
+trsuperobject.biblemap.put("b48_4_13", new trsuperobject(48,4,13,"Bildiğiniz gibi, Müjdeyi size ilk kez bedensel hastalığım nedeniyle bildirmiştim."));
+trsuperobject.biblemap.put("b48_4_14", new trsuperobject(48,4,14,"Bedensel durumum sizin için çetin bir deneme olduğu halde beni ne hor gördünüz ne de reddettiniz. Tanrının bir meleğini, hatta Mesih İsayı kabul eder gibi kabul ettiniz beni."));
+trsuperobject.biblemap.put("b48_4_15", new trsuperobject(48,4,15,"Şimdi o sevincinize ne oldu? Sizin için tanıklık ederim ki, elinizden gelse gözlerinizi oyar bana verirdiniz."));
+trsuperobject.biblemap.put("b48_4_16", new trsuperobject(48,4,16,"Peki, size gerçeği söylediğim için düşmanınız mı oldum?"));
+trsuperobject.biblemap.put("b48_4_17", new trsuperobject(48,4,17,"Başkaları sizi kazanmaya gayret ediyor, ama niyetleri iyi değil. Kendileri için gayret edesiniz diye sizi bizden ayırmak istiyorlar."));
+trsuperobject.biblemap.put("b48_4_18", new trsuperobject(48,4,18,"Niyet iyiyse, yalnız aranızda olduğum zaman değil, her zaman gayretli olmak iyidir."));
+trsuperobject.biblemap.put("b48_4_19", new trsuperobject(48,4,19,"Çocuklarım! Mesih sizde biçimleninceye dek sizin için yine doğum ağrısı çekiyorum."));
+trsuperobject.biblemap.put("b48_4_20", new trsuperobject(48,4,20,"Şimdi yanınızda bulunmayı ve sesimin tonunu değiştirmeyi isterdim. Bu halinize şaşıyorum!"));
+trsuperobject.biblemap.put("b48_4_21", new trsuperobject(48,4,21,"Kutsal Yasa altında yaşamak isteyen sizler, söyleyin bana, Yasanın ne dediğini bilmiyor musunuz?"));
+trsuperobject.biblemap.put("b48_4_22", new trsuperobject(48,4,22,"İbrahimin biri köle, biri de özgür kadından iki oğlu olduğu yazılıdır."));
+trsuperobject.biblemap.put("b48_4_23", new trsuperobject(48,4,23,"Köle kadından olan olağan yoldan, özgür kadından olansa vaat sonucu doğdu."));
+trsuperobject.biblemap.put("b48_4_24", new trsuperobject(48,4,24,"Burada bir benzetme vardır. Bu kadınlar iki antlaşmayı simgelemektedir. Biri Sina Dağındandır, köle olacak çocuklar doğurur. Bu Hacerdir."));
+trsuperobject.biblemap.put("b48_4_25", new trsuperobject(48,4,25,"Hacer, Arabistandaki Sina Dağını simgeler. Şimdiki Yeruşalimin karşılığıdır. Çünkü çocuklarıyla birlikte kölelik etmektedir."));
+trsuperobject.biblemap.put("b48_4_26", new trsuperobject(48,4,26,"Oysa göksel Yeruşalim özgürdür, annemiz odur."));
+trsuperobject.biblemap.put("b48_4_27", new trsuperobject(48,4,27,"Nitekim şöyle yazılmıştır:  ‹‹Sevin, çocuk doğurmayan ey kısır kadın!  Doğum ağrısı nedir bilmeyen sen,  Yükselt sesini, haykır!  Çünkü terk edilmiş kadının,  Kocası olandan daha çok çocuğu var.››"));
+trsuperobject.biblemap.put("b48_4_28", new trsuperobject(48,4,28,"Kardeşler, İshak gibi sizler de vaat çocuklarısınız."));
+trsuperobject.biblemap.put("b48_4_29", new trsuperobject(48,4,29,"Olağan yoldan doğan, Kutsal Ruha göre doğana o zaman nasıl zulmettiyse, şimdi de öyle oluyor."));
+trsuperobject.biblemap.put("b48_4_30", new trsuperobject(48,4,30,"Ama Kutsal Yazı ne diyor?  ‹‹Köle kadınla oğlunu kov.  Çünkü köle kadının oğlu  Özgür kadının oğluyla birlikte  Asla mirasa ortak olmayacaktır.››"));
+trsuperobject.biblemap.put("b48_4_31", new trsuperobject(48,4,31,"İşte böyle, kardeşler, bizler köle kadının değil, özgür kadının çocuklarıyız."));
+trsuperobject.biblemap.put("b48_5_1", new trsuperobject(48,5,1,"Mesih bizi özgür olalım diye özgür kıldı. Bunun için dayanın. Bir daha kölelik boyunduruğuna girmeyin."));
+trsuperobject.biblemap.put("b48_5_2", new trsuperobject(48,5,2,"Bakın, ben Pavlus size diyorum ki, sünnet olursanız Mesihin size hiç yararı olmaz."));
+trsuperobject.biblemap.put("b48_5_3", new trsuperobject(48,5,3,"Sünnet edilen her adamı bir daha uyarıyorum: Kutsal Yasanın tümünü yerine getirmek zorundadır."));
+trsuperobject.biblemap.put("b48_5_4", new trsuperobject(48,5,4,"Yasa aracılığıyla aklanmaya çalışan sizler Mesihten ayrıldınız, Tanrının lütfundan uzak düştünüz."));
+trsuperobject.biblemap.put("b48_5_5", new trsuperobject(48,5,5,"Ama biz aklanmanın verdiği umudun gerçekleşmesini Ruha dayanarak, imanla bekliyoruz."));
+trsuperobject.biblemap.put("b48_5_6", new trsuperobject(48,5,6,"Mesih İsada ne sünnetliliğin ne de sünnetsizliğin yararı vardır; yararlı olan, sevgiyle etkisini gösteren imandır."));
+trsuperobject.biblemap.put("b48_5_7", new trsuperobject(48,5,7,"İyi koşuyordunuz. Sizi gerçeğe uymaktan kim alıkoydu?"));
+trsuperobject.biblemap.put("b48_5_8", new trsuperobject(48,5,8,"Buna kanmanız sizi çağıranın isteği değildir."));
+trsuperobject.biblemap.put("b48_5_9", new trsuperobject(48,5,9,"‹‹Azıcık maya bütün hamuru kabartır.››"));
+trsuperobject.biblemap.put("b48_5_10", new trsuperobject(48,5,10,"Başka türlü düşünmeyeceğinize ilişkin Rabde size güvenim var. Ama aklınızı karıştıran kim olursa olsun, cezasını çekecektir."));
+trsuperobject.biblemap.put("b48_5_11", new trsuperobject(48,5,11,"Bana gelince, kardeşler, eğer hâlâ sünneti savunuyor olsaydım, bugüne dek baskı görür müydüm? Öyle olsaydı, çarmıh engeli ortadan kalkardı."));
+trsuperobject.biblemap.put("b48_5_12", new trsuperobject(48,5,12,"Aklınızı çelenler keşke kendilerini hadım etseler!"));
+trsuperobject.biblemap.put("b48_5_13", new trsuperobject(48,5,13,"Kardeşler, siz özgür olmaya çağrıldınız. Ancak özgürlük benlik için fırsat olmasın. Birbirinize sevgiyle hizmet edin."));
+trsuperobject.biblemap.put("b48_5_14", new trsuperobject(48,5,14,"Bütün Kutsal Yasa tek bir sözde özetlenmiştir: ‹‹Komşunu kendin gibi seveceksin.››"));
+trsuperobject.biblemap.put("b48_5_15", new trsuperobject(48,5,15,"Ama birbirinizi ısırıp yiyorsanız, dikkat edin, birbirinizi yok etmeyesiniz!"));
+trsuperobject.biblemap.put("b48_5_16", new trsuperobject(48,5,16,"Şunu demek istiyorum: Kutsal Ruhun yönetiminde yaşayın. O zaman benliğin tutkularını asla yerine getirmezsiniz."));
+trsuperobject.biblemap.put("b48_5_17", new trsuperobject(48,5,17,"Çünkü benlik Ruha, Ruh da benliğe aykırı olanı arzular. Bunlar birbirine karşıttır; sonuç olarak, istediğinizi yapamıyorsunuz."));
+trsuperobject.biblemap.put("b48_5_18", new trsuperobject(48,5,18,"Ruhun yönetimindeyseniz, Yasaya bağımlı değilsiniz."));
+trsuperobject.biblemap.put("b48_5_19-21", new trsuperobject(48,5,19-21,"Benliğin işleri bellidir. Bunlar fuhuş, pislik, sefahat, putperestlik, büyücülük, düşmanlık, çekişme, kıskançlık, öfke, bencil tutkular, ayrılıklar, bölünmeler, çekememezlik, sarhoşluk, çılgın eğlenceler ve benzeri şeylerdir. Sizi daha önce uyardığım gibi yine uyarıyorum, böyle davrananlar Tanrı Egemenliğini miras alamayacaklar."));
+trsuperobject.biblemap.put("b48_5_22-23", new trsuperobject(48,5,22-23,"Ruhun ürünüyse sevgi, sevinç, esenlik, sabır, şefkat, iyilik, bağlılık, yumuşak huyluluk ve özdenetimdir. Bu tür nitelikleri yasaklayan yasa yoktur."));
+trsuperobject.biblemap.put("b48_5_24", new trsuperobject(48,5,24,"Mesih İsaya ait olanlar, benliği, tutku ve arzularıyla birlikte çarmıha germişlerdir."));
+trsuperobject.biblemap.put("b48_5_25", new trsuperobject(48,5,25,"Ruh sayesinde yaşıyorsak, Ruhun izinde yürüyelim."));
+trsuperobject.biblemap.put("b48_5_26", new trsuperobject(48,5,26,"Boş yere övünen, birbirine meydan okuyan, birbirini kıskanan kişiler olmayalım."));
+trsuperobject.biblemap.put("b48_6_1", new trsuperobject(48,6,1,"Kardeşler, eğer biri suç işlerken yakalanırsa, ruhsal olan sizler, böyle birini yumuşak ruhla yola getirin. Siz de ayartılmamak için kendinizi kollayın."));
+trsuperobject.biblemap.put("b48_6_2", new trsuperobject(48,6,2,"Birbirinizin yükünü taşıyın, böylece Mesihin Yasasını yerine getirirsiniz."));
+trsuperobject.biblemap.put("b48_6_3", new trsuperobject(48,6,3,"Kişi bir hiçken kendini bir şey sanıyorsa, kendini aldatmış olur."));
+trsuperobject.biblemap.put("b48_6_4", new trsuperobject(48,6,4,"Herkes kendi yaptıklarını denetlesin. O zaman başkasının yaptıklarıyla değil, yalnız kendi yaptıklarıyla övünebilir."));
+trsuperobject.biblemap.put("b48_6_5", new trsuperobject(48,6,5,"Herkes kendine düşen yükü taşımalı."));
+trsuperobject.biblemap.put("b48_6_6", new trsuperobject(48,6,6,"Tanrı sözünde eğitilen, kendisini eğitenle bütün nimetleri paylaşsın."));
+trsuperobject.biblemap.put("b48_6_7", new trsuperobject(48,6,7,"Aldanmayın, Tanrı alaya alınmaz. İnsan ne ekerse onu biçer."));
+trsuperobject.biblemap.put("b48_6_8", new trsuperobject(48,6,8,"Kendi benliğine eken, benlikten ölüm biçecektir. Ruha eken, Ruhtan sonsuz yaşam biçecektir."));
+trsuperobject.biblemap.put("b48_6_9", new trsuperobject(48,6,9,"İyilik yapmaktan usanmayalım. Gevşemezsek mevsiminde biçeriz."));
+trsuperobject.biblemap.put("b48_6_10", new trsuperobject(48,6,10,"Bunun için fırsatımız varken herkese, özellikle iman ailesinin üyelerine iyilik yapalım."));
+trsuperobject.biblemap.put("b48_6_11", new trsuperobject(48,6,11,"Bakın, size kendi elimle ne denli büyük harflerle yazıyorum!"));
+trsuperobject.biblemap.put("b48_6_12", new trsuperobject(48,6,12,"Bedende gösterişe önem verenler, yalnız Mesihin çarmıhı uğruna zulüm görmemek için sizi sünnet olmaya zorluyorlar."));
+trsuperobject.biblemap.put("b48_6_13", new trsuperobject(48,6,13,"Oysa sünnetlilerin kendileri bile Kutsal Yasayı yerine getirmiyor, sizin bedenlerinizle övünebilmek için sünnet olmanızı istiyorlar."));
+trsuperobject.biblemap.put("b48_6_14", new trsuperobject(48,6,14,"Bana gelince, Rabbimiz İsa Mesihin çarmıhından başka bir şeyle asla övünmem. Onun çarmıhı aracılığıyla dünya benim için ölüdür, ben de dünya için."));
+trsuperobject.biblemap.put("b48_6_15", new trsuperobject(48,6,15,"Sünnetli olup olmamanın önemi yoktur, önemli olan yeni yaratılıştır."));
+trsuperobject.biblemap.put("b48_6_16", new trsuperobject(48,6,16,"Bu kurala uyan herkese ve Tanrının İsrailine esenlik ve merhamet olsun."));
+trsuperobject.biblemap.put("b48_6_17", new trsuperobject(48,6,17,"Bundan böyle kimse bana sorun çıkarmasın. Çünkü ben İsanın yara izlerini bedenimde taşıyorum."));
+trsuperobject.biblemap.put("b48_6_18", new trsuperobject(48,6,18,"Kardeşler, Rabbimiz İsa Mesih'in lütfu ruhunuzla birlikte olsun! Amin."));
+
+}
+
+}
